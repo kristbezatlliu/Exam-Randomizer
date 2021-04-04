@@ -1,8 +1,3 @@
-# Testi-Me-Alternativa
-Version: 1.0
-Published the program to GITHUB.
-
-ENGLISH
 In order to make this program work, you must have a "Questions.txt" File created inside the folder where the .exe file is located.
 You must create the questions in the following format:
 
